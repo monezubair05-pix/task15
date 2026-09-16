@@ -47,4 +47,4 @@ function cluc(NUM){
         console .log(i)
     }
 }
-cluc         (10)
+cluc(10)
